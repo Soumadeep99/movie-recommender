@@ -65,8 +65,3 @@ if st.button('Recommend'):
     with col5:
         st.text(names[4])
         st.image(posters[4])
-
-let port = process.env.PORT || 8080;
-app.listen(port, ()=>{
-    console.log(`App is running at the port ${port}`);
-});
