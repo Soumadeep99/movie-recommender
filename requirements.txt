@@ -1,2 +1,3 @@
 streamlit == 1.12.2
 requests
+altair==4.1.0
